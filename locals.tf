@@ -1,0 +1,6 @@
+locals {
+  tags={
+
+    foo="bar"
+  }
+}
